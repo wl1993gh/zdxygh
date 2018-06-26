@@ -1,0 +1,147 @@
+html,body{
+	background-color:#f4f4f4;
+	font-size: 16px;
+}
+html,body,div,span,p,[class*=col-]{
+	padding: 0;
+	margin: 0;
+}
+.top-btn a{
+	color: #000;
+}
+.top-btn a:hover{
+	border: none;
+	color: #4095ce;
+}
+.products-box{
+	margin:0 auto;
+	width: 90%;
+    max-width: 1140px;
+    min-width: 755px;
+    background-color: #fff;
+}
+.row{
+	margin: 0;
+	padding: 0;
+}
+.top-btn{
+	line-height: 60px;
+	border-bottom: 1px solid #4095ce;
+    padding: 0 3%;
+    font-size: 18px;
+}
+.products-con .col-md-3{
+	margin-top: 30px;
+	padding:  20px 10px;
+	border: 4px solid #4095CE;
+	border-left: none;
+	border-right: none;
+	line-height: 40px;
+	color: #4095CE;
+}
+.products-con .col-md-9{
+	padding: 0 3%;
+}
+.products-con .title{
+	color: #4095CE;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+	line-height: 50px;
+}
+.describe{
+	text-align: left;
+	font-size: 16px;
+	line-height: 28px;
+	text-indent: 32px;
+	margin-bottom: 20px;
+}
+.describe table{
+	text-indent:0;
+}
+.describe img{
+	width: 100%;
+	margin-top: 3%;
+}
+.describe .col-md-6 img{
+	text-indent: 0;
+	max-width: 80%;
+	height: 200px;
+	margin-bottom: 5%;
+}
+.subTitle{
+	color: #4095CE;
+	font-size: 18px;
+	text-indent: 0;
+	line-height: 32px;
+}
+.table{
+	text-align: center;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+	border-top: none;
+	padding: 0;
+}
+.process{
+	padding: 20px 0;
+	line-height: 60px;
+	text-indent: 8px;
+}
+.process span{
+	color: #fff;
+	background-color: #4095CE;
+	padding: 15px;
+	border-radius: 15px 0 15px 0;
+}
+.col-md-3 .img1{
+	width: 100%;
+}
+.col-md-3 .img2{
+	margin: 20px 15% 0;
+	width: 70%;
+}
+footer{
+	height: 140px;
+	width: 100%;
+	background-color: #8C8C8C;
+}
+.bottom-menu{
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+}
+.bottom-menu .col-md-1-5{
+	color: #fff;
+	border-right: 1px solid #fff;
+	font-size: 16px;
+}
+.bottom-menu .col-md-1-5:last-of-type{
+	border-right: none;
+}
+.footer-con{
+	line-height:40px;
+	float: left;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	padding: 10px;
+}
+.footer-con a{
+	color: #fff;
+}
+.backIndex{
+	margin:0 20px;
+	background-color: #4095CE;
+	padding:6px 10px;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.describe .img3{
+	width: 50%;
+	margin:0 25%;
+}
+.bold{
+	font-weight: bold;
+}
